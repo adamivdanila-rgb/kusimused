@@ -1,0 +1,11 @@
+Küsimusi
+1.Millist käsku kasutatakse Gitis, et lisada fail enne GitHubi saatmist?
+2-Mida väljastab järgmine Pythoni programm:
+python?
+x = 5
+y = x * 2
+print(y + 3)
+
+3.Millist HTML-silti kasutatakse pildi lehele lisamiseks?
+4.Kuidas korrutada Excelis lahtris A1 olev arv 10-ga ja kirjutada tulemus lahtrisse B1? Kirjuta valem.
+5.Miks kasutatakse GitHubiga töötamisel käsku git clone?
