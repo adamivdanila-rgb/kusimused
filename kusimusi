@@ -10,4 +10,5 @@ print(y + 3)
 3.Millist HTML-silti kasutatakse pildi lehele lisamiseks?
 <img>
 4.Kuidas korrutada Excelis lahtris A1 olev arv 10-ga ja kirjutada tulemus lahtrisse B1? Kirjuta valem.
+B1=A1*10
 5.Miks kasutatakse GitHubiga töötamisel käsku git clone?
