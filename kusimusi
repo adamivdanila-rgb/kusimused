@@ -13,3 +13,4 @@ print(y + 3)
 Vastus 4. =A1*10
 
 5.Miks kasutatakse GitHubiga töötamisel käsku git clone?
+Vastus 5. Käsku git clone kasutatakse selleks, et kopeerida (alla laadida) GitHubis olev repositoorium oma arvutisse.
