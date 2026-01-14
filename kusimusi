@@ -2,7 +2,7 @@ Küsimusi Veronika
 1.Millist käsku kasutatakse Gitis, et lisada fail enne GitHubi saatmist? Vastus 1. git add .
 
 2-Mida väljastab järgmine Pythoni programm:
-python?
+python? Vastus 2. 13
 x = 5
 y = x * 2
 print(y + 3)
