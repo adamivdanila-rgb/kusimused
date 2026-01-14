@@ -7,6 +7,7 @@ x = 5
 y = x * 2
 print(y + 3)
 
-3.Millist HTML-silti kasutatakse pildi lehele lisamiseks?
+3.Millist HTML-silti kasutatakse pildi lehele lisamiseks? Vastus 3. <img>
+
 4.Kuidas korrutada Excelis lahtris A1 olev arv 10-ga ja kirjutada tulemus lahtrisse B1? Kirjuta valem.
 5.Miks kasutatakse GitHubiga töötamisel käsku git clone?
